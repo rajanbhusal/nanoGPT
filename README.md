@@ -1,2 +1,2 @@
 # nanoGPT
-Character Level GPT based Language Model
+Character Level Transformer Based Language Model
